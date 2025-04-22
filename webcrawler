@@ -1,1 +1,7 @@
 //webcrawler
+Functional Requirements:
+i) crawl the web starting from a list of seed urls
+ii) extract data from these crawled web pages for processing
+
+Non-Functional Requirements:
+Know about the scalability needs of this web crawler.
